@@ -2,6 +2,9 @@
 
 # Release History
 
+## Version 1.3.1
+
+* Updated deployment code to explicitly include "id" parameter (should fix several drill issues from Planning)
 ## Version 1.3.0
 
 This is a major release! There are _tons_ of new and enhanced features in this
