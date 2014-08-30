@@ -31,6 +31,8 @@ Note that the table of contents is automatically generated.
 In no particular order, a list of things that need/should be addressed:
 
 * gendoc equivalent written in batch file in addition to .sh
+* Would be nice to auto-build documentation somewhere (like on S3) after updates are committed
+* Would also be nice to build some HTML documentation (shouldn't be tooo hard given that Pandoc is pretty flexible)
 
 
 ## License
